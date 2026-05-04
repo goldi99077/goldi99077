@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm GOLDI</h1>
-<h3 align="center">A second-year Computer Engineering student at AIT, Pune, passionate about web development and crafting impactful web experiences. I love exploring front-end magic, solving problems with DSA, and dabbling in competitive programming</h3>
+<h1 align="center">Hiee 👋, I'm GOLDI</h1>
+<h3 align="center">A Pre Final-year Computer Engineering student at AIT, Pune, passionate about web development and crafting impactful web experiences. I love exploring front-end magic, solving problems with DSA, and dabbling in competitive programming</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
